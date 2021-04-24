@@ -1,0 +1,58 @@
+{
+    "DC System Design Inputs": [
+        {
+            "Project Capacity": [
+                {
+                    "Project Capacity (AC)": 100
+                },
+                {
+                    "Project Capacity (DC)": 145
+                },
+                {
+                    "Ratio": 1.45
+                }
+            ]
+        },
+        {
+            "PV Array Characteristics": [
+                {
+                    "Sub-Array Capacity (MWp)": [
+                        145,
+                        0,
+                        0
+                    ],
+                    "Sub-Array Capacity (MW)": [
+                        100.00,
+                        0.00,
+                        0.00
+                    ],
+                    "Module Make": [
+                        "Chint",
+                        "JA-Solar",
+                        "JA-Solar"
+                    ]
+                }
+            ]
+        },
+        {
+            "Inverter System": [
+                {
+                    "Type of Inverter": "Central"
+                },
+                {
+                    "Inverter Make": "SUNGROW"
+                },
+                {
+                    "Inverter Rating (kW)": 3125
+                },
+                {
+                    "No of Inverters": [
+                        32,
+                        0,
+                        0
+                    ]
+                }
+            ]
+        }
+    ]
+}
